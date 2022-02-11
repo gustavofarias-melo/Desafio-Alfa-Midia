@@ -1,2 +1,2 @@
 # Desafio-Alfa-Midia
-Desafio CRUD em JAVA
+Desafio CRUD em memória JAVA
